@@ -1,0 +1,8 @@
+{
+  "name": "JAIA - AI Design Intelligence",
+  "description": "A high-end landing page for JAIA, an AI-powered design platform, inspired by minimalist meetup aesthetics. Features real-time AI design assistance powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
